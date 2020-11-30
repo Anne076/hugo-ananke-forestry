@@ -20,17 +20,5 @@ fields:
   label: type
   default: page
   hidden: true
-- name: contactfooter
-  type: select
-  default: ''
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Contactfooter
 pages:
 - content/contact.md
