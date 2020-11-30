@@ -23,6 +23,18 @@ fields:
       file: 
       path: 
   label: Menu
+- name: Menu
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu
 pages:
 - content/_index.md
 - content/about/_index.md
