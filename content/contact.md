@@ -6,7 +6,6 @@ description: We'd love to hear from you
 type: page
 menu:
   footer:
-    name: ''
     weight: 1
 
 ---
