@@ -2,6 +2,7 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Hugo Ananke Forestry Starter
+theme: ananke
 module:
   imports:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
