@@ -11,7 +11,7 @@ fields:
 - type: text
   name: description
   label: description
-- name: Menu
+- name: menu
   type: select
   default: ''
   config:
