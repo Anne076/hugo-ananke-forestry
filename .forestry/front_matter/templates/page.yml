@@ -25,7 +25,7 @@ fields:
   label: Menu
 - name: Menu
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
@@ -35,6 +35,8 @@ fields:
       file: 
       path: 
   label: Menu
+  showOnly:
+    field: menu
 pages:
 - content/_index.md
 - content/about/_index.md
