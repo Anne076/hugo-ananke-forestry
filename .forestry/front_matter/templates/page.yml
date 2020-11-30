@@ -11,18 +11,18 @@ fields:
 - type: text
   name: description
   label: description
-- name: menu
+- name: Footer
   type: select
   default: []
   config:
     required: false
     options: []
     source:
-      type: documents
+      type: simple
       section: 
       file: 
       path: 
-  label: Menu
+  label: Footer
   showOnly:
     field: Menu
 - name: Menu
