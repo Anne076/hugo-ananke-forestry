@@ -23,6 +23,8 @@ fields:
       file: 
       path: 
   label: Menu
+  showOnly:
+    field: Menu
 - name: Menu
   type: select
   default: ''
