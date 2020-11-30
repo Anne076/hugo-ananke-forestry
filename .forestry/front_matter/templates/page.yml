@@ -11,20 +11,6 @@ fields:
 - type: text
   name: description
   label: description
-- name: Footer
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Footer
-  showOnly:
-    field: Menu
 - name: Menu
   type: select
   default: ''
