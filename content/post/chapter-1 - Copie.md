@@ -4,7 +4,6 @@ description: "The Grand Hall"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 title: "Chapter I: The Grand Hall"
-menu: footer
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago
