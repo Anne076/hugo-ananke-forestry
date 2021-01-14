@@ -29,5 +29,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: "/images/image-marketingok.jpg"
+  featured_image: "https://apprentismarket.netlify.app/images/image-marketingok.jpg"
   recent_posts_number: 2
