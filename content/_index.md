@@ -7,4 +7,7 @@ menu:
     weight: 1
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Chez nous, tu apprends ce que l'on apprend !
+
+Deviens le Marketeux de demain,  
+Et prends ton destin en main !
