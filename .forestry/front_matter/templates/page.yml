@@ -26,5 +26,4 @@ fields:
   showOnly:
     field: menu
 pages:
-- content/_index.md
 - content/about/_index.md
