@@ -1,6 +1,6 @@
 ---
 title: BIENVENUE SUR LE SITE DES APPRENTIS MARKETEUX !
-featured_image: photodig.png
+featured_image: https://apprentismarket.netlify.app/images/marketing-1.jpg
 description: ''
 menu:
   '':
