@@ -13,16 +13,18 @@ fields:
   label: description
 - name: menu
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
     source:
-      type: documents
+      type: simple
       section: 
       file: 
       path: 
   label: Menu
+  showOnly:
+    field: menu
 pages:
 - content/_index.md
 - content/about/_index.md
