@@ -7,7 +7,7 @@ menu:
     weight: 1
 
 ---
-<span style="color:red">Chez nous, tu apprends ce que l'on apprend !</span> 
+Chez nous, tu apprends ce que l'on apprend !
 
 Deviens le Marketeux de demain,  
 Et prends ton destin en main !
