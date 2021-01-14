@@ -1,5 +1,5 @@
 ---
-title: Les apprentis marketeux
+title: BIENVENUE SUR LE SITE DES APPRENTIS MARKETEUX !
 featured_image: https://apprentismarket.netlify.app/images/marketing-1.jpg
 description: ''
 menu:
