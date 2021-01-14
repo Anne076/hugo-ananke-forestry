@@ -1,5 +1,5 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: Les apprentis marketeux
 featured_image: https://apprentismarket.netlify.app/images/marketing-1.jpg
 description: ''
 menu:
