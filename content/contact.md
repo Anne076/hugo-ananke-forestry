@@ -1,7 +1,7 @@
 ---
 title: CONTACT !
 menu: footer
-featured_image: images/notebook.jpg
+featured_image: images/marketing-1.jpg
 omit_header_text: true
 description: We'd love to hear from you
 type: page
