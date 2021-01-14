@@ -28,6 +28,6 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-light-blue
+  background_color_class: bg-navy
   featured_image: "/images/Marketing.jpg"
   recent_posts_number: 2
