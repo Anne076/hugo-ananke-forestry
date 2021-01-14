@@ -5,22 +5,10 @@ author: "Tes Marketeux"
 categories: ["cours"]
 ---
 
-[ACCUEIL](#)  
-[COURS](#)  
-[ARTICLES](#)  
-[LES BONS PLANS](#)  
-[TES MARKETEUX](#)  
-[RECRUTEMENT](#)  
-[CONTACTEZ-NOUS](#)  
-
-
-
 # Les réseaux sociaux et le marketing digital
 <br>
 
-<img class="fit-picture"
-     src="https://www.tiz.fr/app/uploads/2019/08/reseaux-sociaux-tiz-2-scaled.jpeg"
-     alt="Image de LIKE"> 
+![Réseaux sociaux](https://www.tiz.fr/app/uploads/2019/08/reseaux-sociaux-tiz-2-scaled.jpeg)
 
 Ah les réseaux sociaux \! <br>
 Depuis une dizaine d’années, ils connaissent une croissance folle. Rapide, simple d’utilisation et très pratique, c’est un levier marketing incroyable \!

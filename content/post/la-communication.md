@@ -5,21 +5,10 @@ author: "Tes Marketeux"
 categories: ["cours"]
 ---
 
-[ACCUEIL](#)  
-[COURS](#)  
-[ARTICLES](#)  
-[LES BONS PLANS](#)  
-[TES MARKETEUX](#)  
-[RECRUTEMENT](#)  
-[CONTACTEZ-NOUS](#)  
-
-
 # La vidéo Promotionnelle, l’avenir de de la communication digitale \!
-<br>
-<img class="fit-picture"
-     src="https://comarketing-news.fr/wp-content/uploads/video-reseaux-sociaux-2020jpg.jpg"
-     alt="Image vidéo promotionnelle">
 
+![Vidéo](https://comarketing-news.fr/wp-content/uploads/video-reseaux-sociaux-2020jpg.jpg)
+ 
 Cette stratégie de communication percutante, t’apportera une visibilité incontournable, ce qui est essentielle pour exister aujourd’hui dans le monde du digital. Dans le marketing, il est important d’apporter de l’émotion à nos prospects afin de faire ressortir leurs sentiments cachés (ndlr). <br>
 [« à retrouver dans notre article »](#)
 <br>

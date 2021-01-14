@@ -5,23 +5,10 @@ author: "Tes Marketeux"
 categories: ["cours"]
 ---
 
-[ACCUEIL](#)  
-[COURS](#)  
-[ARTICLES](#)  
-[LES BONS PLANS](#)  
-[TES MARKETEUX](#)  
-[RECRUTEMENT](#)  
-[CONTACTEZ-NOUS](#)  
-
-
-
-
 # Les démarches marketing
 <br>
 
-<img class="fit-picture"
-     src="https://cdn.pixabay.com/photo/2018/03/30/13/45/image-3275412_960_720.jpg"
-     alt="Image démarche marketing"> 
+![Stratégie Marketing](https://cdn.pixabay.com/photo/2018/03/30/13/45/image-3275412_960_720.jpg)
 
 Une stratégie marketing \! <br>
 Ça te dit quelque chose ? <br>
