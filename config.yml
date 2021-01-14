@@ -15,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: https://mpng.subpng.com/20180603/xil/kisspng-digital-marketing-logo-company-brand-5b144e90d439f0.6922556915280574888693.jpg
+  site_logo: /images/logo.png
   description: test
   facebook: https://www.facebook.com/profile.php?id=100042726557510
   twitter: https://twitter.com/TaillandierAnn1
