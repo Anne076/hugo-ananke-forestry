@@ -1,11 +1,11 @@
 ---
-title: "GUIDE FACEBOOK ADS"
-date: 2020-12-01T09:23:10+01:00
-draft: true
-author: "Tes Marketeux"
-categories: ["cours"]
----
+title: GUIDE FACEBOOK ADS
+date: 2020-12-01T09:23:10.000+01:00
+author: Tes Marketeux
+categories:
+- cours
 
+---
 [ACCUEIL](#)  
 [COURS](#)  
 [ARTICLES](#)  
@@ -397,20 +397,3 @@ d'autres cours sont avenir, en voici un aperçu \!
 >### Audit
 * Technique
 * Lexical
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
