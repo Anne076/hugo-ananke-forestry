@@ -6,19 +6,10 @@ categories:
 - cours
 
 ---
-[ACCUEIL](#)  
-[COURS](#)  
-[ARTICLES](#)  
-[LES BONS PLANS](#)  
-[TES MARKETEUX](#)  
-[RECRUTEMENT](#)  
-[CONTACTEZ-NOUS](#)  
 
 # LE GUIDE DU DEBUTANT : FACEBOOK ADS
 
-<img class="fit-picture"
-     src="https://www.conseilsmarketing.com/wp-content/uploads/2017/11/fb-ads.png"
-     alt="image Facebook ADS">
+![Facebook Ads](https://www.conseilsmarketing.com/wp-content/uploads/2017/11/fb-ads.png)
 
 Tu souhaites faire du Facebook Ads mais tu t'y connais autant qu'en physique quantique ?  
 Nous, tes marketeux allons t'aider afin d'éviter la prise de tête et que ton passage sur cette plateforme soit un véritable bonheur \!  
