@@ -17,13 +17,13 @@ params:
   favicon: ''
   site_logo: ''
   description: test
-  facebook: ''
-  twitter: https://twitter.com/GoHugoIO
+  facebook: https://www.facebook.com/profile.php?id=100042726557510
+  twitter: https://twitter.com/TaillandierAnn1
   instagram: ''
   youtube: ''
   github: ''
   gitlab: ''
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/anne-taillandier/
   mastodon: ''
   slack: ''
   stackoverflow: ''
