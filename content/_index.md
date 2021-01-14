@@ -1,6 +1,6 @@
 ---
 title: 'Ananke: a Hugo Theme'
-featured_image: https://apprentismarket.netlify.app/images/image-marketing.jpg
+featured_image: https://apprentismarket.netlify.app/images/image-marketingok.jpg
 description: The last theme you'll ever need. Maybe.
 menu: ''
 
