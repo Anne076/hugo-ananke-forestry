@@ -1,99 +1,67 @@
 ---
-date: 2017-04-14T11:25:05-04:00
-description: "Esmeralda"
+date: 2017-04-14T11:25:05.000-04:00
+description: Nous apprenons tous les jours de nouvelles techniques et stratégies ainsi
+  que du vocabulaire afin de devenir les rois du market !
 featured_image: "/images/esmeralda.jpg"
 tags: []
-title: "Chapter VI: Esmeralda"
+title: Les démarches marketing
 disable_share: false
+
 ---
-We are delighted to be able to inform the reader, that during the whole of
-this scene, Gringoire and his piece had stood firm. His actors, spurred on
-by him, had not ceased to spout his comedy, and he had not ceased to
-listen to it. He had made up his mind about the tumult, and was determined
-to proceed to the end, not giving up the hope of a return of attention on
-the part of the public. This gleam of hope acquired fresh life, when he
-saw Quasimodo, Coppenole, and the deafening escort of the pope of the
-procession of fools quit the hall amid great uproar. The throng rushed
-eagerly after them. “Good,” he said to himself, “there go all the
-mischief-makers.” Unfortunately, all the mischief-makers constituted the
-entire audience. In the twinkling of an eye, the grand hall was empty.
+Une stratégie marketing !  
+Ça te dit quelque chose ?  
+  
+C’est un plan d’action coordonnée mis en place par une entreprise sur une durée plus ou moins longue qui consiste à se fixer des objectifs pour augmenter son taux de conversion. La stratégie marketing peut s’appliquer à un produit en particulier ou à toute l’entreprise en elle-même.  
+Ce regroupement des outils et de toutes les méthodes permet de créer, recréer et susciter des besoins chez le consommateur.
 
-To tell the truth, a few spectators still remained, some scattered, others
-in groups around the pillars, women, old men, or children, who had had
-enough of the uproar and tumult. Some scholars were still perched astride
-of the window-sills, engaged in gazing into the Place.
+Le marketing comporte deux aspects complémentaires qui sont, d'un côté, le marketing stratégique , puis de l’autre, le marketing opérationnel qui lui est inter-dépendants.
 
-“Well,” thought Gringoire, “here are still as many as are required to hear
-the end of my mystery. They are few in number, but it is a choice
-audience, a lettered audience.”
+Le marketing stratégique, est une réflexion qui indique quoi faire une fois l’analyse du marché finie, c'est-à-dire réaliser un SWOT ou utiliser la méthode PESTEL, pour pouvoir avoir un diagnostique sur le marché en rapport avec l’entreprise.  
+Celle-ci se comporte en 3 phases.
 
-An instant later, a symphony which had been intended to produce the
-greatest effect on the arrival of the Virgin, was lacking. Gringoire
-perceived that his music had been carried off by the procession of the
-Pope of the Fools. “Skip it,” said he, stoically.
+* Premièrement, il y’a la connaissance, c'est-à-dire faire de la veille, pour voir ce que les principaux concurrents font.
+* Deuxièmement, il y’a la réflexion, l’entreprise va se demander quelle stratégie adopter, peser le pour et le contre, établir un budget précis et partager les ressources de marketing opérationnel ( Le street marketing par exemple).
+* Troisièmement, il y’a la décision, la stratégie va alors être lancée.
 
-He approached a group of bourgeois, who seemed to him to be discussing his
-piece. This is the fragment of conversation which he caught,—
+La phase théorique du marketing stratégique est primordiale.  
+C’est à ce moment que l’on va réaliser une feuille de route pour mener à bien le projet.
 
-“You know, Master Cheneteau, the Hôtel de Navarre, which belonged to
-Monsieur de Nemours?”
+Il ne faut pas oublier de prendre en compte les tendances du moment, nous pouvons prendre l’exemple de Tik Tok qui est un phénomène de mode auquel les entreprises doivent s’adapter.
 
-“Yes, opposite the Chapelle de Braque.”
+La définition de la cible et la réalisation de personas permettent d’analyser le comportement des consommateurs et donc d’adapter sa stratégie pour être le plus précis possible.
 
-“Well, the treasury has just let it to Guillaume Alixandre, historian, for
-six hivres, eight sols, parisian, a year.”
+## L’étude de marché
 
-“How rents are going up!”
+  
+Et le marché alors?  
+  
+Il désigne l'ensemble des prospects qui seraient susceptibles d'avoir un impact sur les ventes d'un produit ou d’un service. Le marché du produit est divisé en deux parties.  
+Nous avons l’offre d'un côté, avec le pouvoir et le vouloir vendre, la demande de l'autre côté, avec le pouvoir et le vouloir acheter.
 
-“Come,” said Gringoire to himself, with a sigh, “the others are
-listening.”
+Au niveau de l’offre, tu peux distinguer deux genres de concurrence.  
+Il y’a tout d’abord la concurrence indirecte au niveau des produits d’un même poste budgétaire ou alors au niveau d’un même besoin.Puis la concurrence directe avec des produits semblables ou de même composition.
 
-“Comrades,” suddenly shouted one of the young scamps from the window, “La
-Esmeralda! La Esmeralda in the Place!”
+Pour répondre à la demande, il y’a aussi 3 types de consommateur.
 
-This word produced a magical effect. Every one who was left in the hall
-flew to the windows, climbing the walls in order to see, and repeating,
-“La Esmeralda! La Esmeralda?” At the same time, a great sound of applause
-was heard from without.
+* Premièrement Les non-consommateurs absolus qui ne peuvent pas consommer.
+* Deuxièmement, les non-consommateurs volontaires pour des raisons culturelles ou sociales.
+* Troisièmement Les non-consommateurs involontaires qui ne peuvent pas acheter mais qui auraient bien voulu.
 
-“What’s the meaning of this, of the Esmeralda?” said Gringoire, wringing
-his hands in despair. “Ah, good heavens! it seems to be the turn of the
-windows now.”
+La segmentation consiste à fractionner un marché que l’on détermine en un certain nombre de sous-ensembles d'individus ayant un comportement similaire à l'égard d'un produit ou d'une marque, dans le but d'éventuellement mener des actions commerciales spécifiques sur les différents segments réalisés.
 
-He returned towards the marble table, and saw that the representation had
-been interrupted. It was precisely at the instant when Jupiter should have
-appeared with his thunder. But Jupiter was standing motionless at the foot
-of the stage.
+  
+Il y’a quatre étapes :
 
-“Michel Giborne!” cried the irritated poet, “what are you doing there? Is
-that your part? Come up!”
+* La sélection des critères de segmentation,
+* la description des caractéristiques de chaque segment,
+* la sélection du ou des segments pertinents,
+* la définition des politiques marketing utilisées pour chaque segment.
 
-“Alas!” said Jupiter, “a scholar has just seized the ladder.”
+## Pour conclure
 
-Gringoire looked. It was but too true. All communication between his plot
-and its solution was intercepted.
+  
+L’analyse marketing est quelque chose d’assez vaste et qui comporte encore bien d’autres facteurs à prendre en compte.  
+J’aborderai cela avec toi lors d’un prochain cours.
 
-“The rascal,” he murmured. “And why did he take that ladder?”
-
-“In order to go and see the Esmeralda,” replied Jupiter piteously. “He
-said, ‘Come, here’s a ladder that’s of no use!’ and he took it.”
-
-This was the last blow. Gringoire received it with resignation.
-
-“May the devil fly away with you!” he said to the comedian, “and if I get
-my pay, you shall receive yours.”
-
-Then he beat a retreat, with drooping head, but the last in the field,
-like a general who has fought well.
-
-And as he descended the winding stairs of the courts: “A fine rabble of
-asses and dolts these Parisians!” he muttered between his teeth; “they
-come to hear a mystery and don’t listen to it at all! They are engrossed
-by every one, by Chopin Trouillefou, by the cardinal, by Coppenole, by
-Quasimodo, by the devil! but by Madame the Virgin Mary, not at all. If I
-had known, I’d have given you Virgin Mary; you ninnies! And I! to come to
-see faces and behold only backs! to be a poet, and to reap the success of
-an apothecary! It is true that Homerus begged through the Greek towns, and
-that Naso died in exile among the Muscovites. But may the devil flay me if
-I understand what they mean with their Esmeralda! What is that word, in
-the first place?—‘tis Egyptian!”
+À la prochaine !  
+Les Apprentis Marketeux :)
